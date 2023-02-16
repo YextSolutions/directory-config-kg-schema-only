@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schema.yext.com/config/km/settings/v1",
+  "entityTypeSettings": [
+    {
+      "entityType": "ce_city",
+      "defaultFieldEligibilityGroup": "ce_city.default",
+      "disabled": false
+    },
+    {
+      "entityType": "ce_state",
+      "defaultFieldEligibilityGroup": "ce_state.default",
+      "disabled": false
+    },
+    {
+      "entityType": "ce_root",
+      "defaultFieldEligibilityGroup": "ce_root.default",
+      "disabled": false
+    }
+  ]
+}
