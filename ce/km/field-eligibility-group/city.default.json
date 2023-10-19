@@ -9,7 +9,7 @@
     "c_addressRegionAbbreviation",
     "c_addressRegionDisplayName",
     "description",
-    "richTextDescription",
+    "richTextDescriptionV2",
     "slug",
     "dm_directoryChildren",
     "dm_directoryChildrenCount",
