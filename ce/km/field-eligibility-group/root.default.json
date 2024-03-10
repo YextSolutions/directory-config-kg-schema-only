@@ -5,7 +5,6 @@
   "entityType": "ce_root",
   "fields": [
     "description",
-    "richTextDescriptionV2",
     "slug"
   ],
   "required": []

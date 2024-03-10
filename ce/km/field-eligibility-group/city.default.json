@@ -9,7 +9,6 @@
     "c_addressRegionAbbreviation",
     "c_addressRegionDisplayName",
     "description",
-    "richTextDescriptionV2",
     "slug"
   ],
   "required": []
