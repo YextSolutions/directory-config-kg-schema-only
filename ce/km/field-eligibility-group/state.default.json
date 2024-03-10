@@ -10,11 +10,7 @@
     "c_addressRegionDisplayName",
     "description",
     "richTextDescriptionV2",
-    "slug",
-    "dm_directoryChildren",
-    "dm_directoryChildrenCount",
-    "dm_directoryManagerId",
-    "dm_directoryParents"
+    "slug"
   ],
   "required": []
 }

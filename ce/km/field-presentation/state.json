@@ -36,24 +36,6 @@
           "id": "c_addressRegionDisplayName"
         }
       ]
-    },
-    {
-      "displayName": "Directory Manager",
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "dm_directoryParents"
-        },
-        {
-          "id": "dm_directoryChildren"
-        },
-        {
-          "id": "dm_directoryChildrenCount"
-        },
-        {
-          "id": "dm_directoryManagerId"
-        }
-      ]
     }
   ]
 }

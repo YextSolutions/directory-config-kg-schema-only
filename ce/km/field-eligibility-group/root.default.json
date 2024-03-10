@@ -6,8 +6,7 @@
   "fields": [
     "description",
     "richTextDescriptionV2",
-    "slug",
-    "dm_directoryChildren"
+    "slug"
   ],
   "required": []
 }

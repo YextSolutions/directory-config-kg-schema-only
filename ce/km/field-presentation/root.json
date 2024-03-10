@@ -24,15 +24,6 @@
           "id": "richTextDescriptionV2"
         }
       ]
-    },
-    {
-      "displayName": "Directory Manager",
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "dm_directoryChildren"
-        }
-      ]
     }
   ]
 }
